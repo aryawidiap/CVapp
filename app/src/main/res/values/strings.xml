@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Curriculum Vitae</string>
+    <string name="desc">I am an undergraduate student majoring in Information Engineering of Institut Teknologi Sepuluh Nopember, Surabaya. I am a creative person and always interested in learning about new things. Currently, I am studying Front-End Website Development and UI/UX.</string>
+    <string name="job_name">Informatics student</string>
+    <string name="lorem_text2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt viverra dolor.</string>
+    <string name="lorem_text3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut leo eu augue iaculis feugiat. Sed id malesuada tortor, sit amet aliquet tortor. Fusce at lobortis justo, vitae tristique nulla. Nullam purus nibh, ornare vel eros vitae, congue condimentum lacus.</string>
+    <string name="name">Arya Widia\nPutra</string>
+    <string name="education">Education</string>
+    <string name="daftar_kontak">No. Telp: 081236033096\nEmail: aryawidiaputra2002@gmail.com\nLinkedIn: https://www.linkedin.com/in/arya-widia-putra/\nGitHub: https://github.com/aryawidiap</string>
+    <string name="judul_kontak">Kontak</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
